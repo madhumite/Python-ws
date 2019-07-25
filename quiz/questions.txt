@@ -1,0 +1,10 @@
+How many friends does shinchan has?,5,4,3,6,B
+Which vegetable does shinchan hates the most?,capsicum,carrot,brinjal,tomato,A
+What is shinchan's pet dog name?,kazama,mitsi,himawari,shiro,D
+How harry is related to shinchan?,uncle,dad,brother,son,B
+What himawari attracts to?,dog,cat,jewels,lipstick,C  
+What mitsi likes?,discount,family,dog,hair,A
+What is shinchan's shirt color?,black,blue,yellow,red,D
+What shinchan calls nanako as?,aunty,mom,didi,baby,C
+Does shinchan loves shiro?,yes,dunno,no,no_idea,A
+Shinchan comes in which channel?,CartoonNetwork,Disney,9XM,Hungama,D
